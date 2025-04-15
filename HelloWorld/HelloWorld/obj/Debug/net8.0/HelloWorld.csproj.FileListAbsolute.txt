@@ -12,3 +12,4 @@ C:\udemy_matskut\complete-csharp-masterclass\HelloWorld\HelloWorld\obj\Debug\net
 C:\udemy_matskut\complete-csharp-masterclass\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 C:\udemy_matskut\complete-csharp-masterclass\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 C:\udemy_matskut\complete-csharp-masterclass\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+C:\udemy_matskut\complete-csharp-masterclass\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
