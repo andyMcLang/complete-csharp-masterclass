@@ -1,0 +1,15 @@
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.exe
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.deps.json
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.runtimeconfig.json
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.dll
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.pdb
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.AssemblyInfoInputs.cache
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.AssemblyInfo.cs
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.csproj.CoreCompileInputs.cache
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.sourcelink.json
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.dll
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\refint\MyAdditionCalculator.dll
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.pdb
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.genruntimeconfig.cache
+C:\udemy_matskut\complete-csharp-masterclass\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\ref\MyAdditionCalculator.dll
