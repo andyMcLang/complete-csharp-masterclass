@@ -8,3 +8,4 @@ Console.Write("Kirjoita jottain: ");
 // strings are used to store text
 string userInput = Console.ReadLine();
 Console.WriteLine("Kirjoitit: " + userInput);
+Console.ReadKey();
