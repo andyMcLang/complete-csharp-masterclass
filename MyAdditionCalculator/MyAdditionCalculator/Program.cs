@@ -1,11 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Laskin toiminto
 
-// Prints out whatever is in side of ()
-Console.Write("Kirjoita jottain: ");
+Console.Write("Anna eka numero kokonaisena: ");
 
-// takes the user input and stores it in a variable
-// Variable with the name "userInput" and the data type of string
-// strings are used to store text
-string userInput = Console.ReadLine();
-Console.WriteLine("Kirjoitit: " + userInput);
+// datatyyppi muuttujaNimi = alkuarvo;
+int munNumero = 0;
+
+munNumero = int.Parse(Console.ReadLine());
+
+Console.WriteLine($"Annoit '{munNumero}' -numeron");
 Console.ReadKey();
