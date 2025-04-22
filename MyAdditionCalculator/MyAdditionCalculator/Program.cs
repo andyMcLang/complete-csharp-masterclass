@@ -1,11 +1,20 @@
 ﻿// Laskin toiminto
 
-Console.Write("Anna eka numero kokonaisena: ");
-
 // datatyyppi muuttujaNimi = alkuarvo;
-int munNumero = 0;
+int munNumero1 = 0;
+int munNumero2 = 0;
 
-munNumero = int.Parse(Console.ReadLine());
+Console.Write("Anna eka numero kokonaisena: ");
+string kayttajanSyote = Console.ReadLine();
 
-Console.WriteLine($"Annoit '{munNumero}' -numeron");
+munNumero1 = int.Parse(kayttajanSyote);
+
+Console.Write("Anna toka numero kokonaisena: "); 
+kayttajanSyote = Console.ReadLine();
+
+munNumero2 = int.Parse(kayttajanSyote);
+
+int summa = munNumero1 + munNumero2;
+
+Console.WriteLine($"'{munNumero1}' -numeron ja '{munNumero2}' -numeron summatulos on {summa}");
 Console.ReadKey();
