@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyAdditionCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d746e7b340d3f3f3b42bea3ea8e3002cea36edf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32623ff12ac1b9d3443f54884c4d5dc07000bfe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyAdditionCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyAdditionCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

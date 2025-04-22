@@ -17,6 +17,7 @@ kayttajanSyote = Console.ReadLine();
 munNumero2 = double.Parse(kayttajanSyote, CultureInfo.InvariantCulture);
 
 double summa = munNumero1 + munNumero2;
+summa = Math.Round(summa, 2);
 
-Console.WriteLine($"{munNumero1} -numeron ja {munNumero2} -numeron summatulos on {summa}");
+Console.WriteLine($"{munNumero1.ToString(CultureInfo.InvariantCulture)} -numeron ja {munNumero2.ToString(CultureInfo.InvariantCulture)} -numeron summatulos on {summa.ToString(CultureInfo.InvariantCulture)}");
 Console.ReadKey();
