@@ -23,4 +23,15 @@ myInt3 = (int)myDouble3;
 Console.WriteLine("My Float: " + myFloat + " and My Double: " + myDouble);
 Console.WriteLine("My Int3: " + myInt3 + " and My Double3: " + myDouble3);
 
+// Conversion Helpers Parse and Convert
+
+string myString = "123";
+int myInt4 = int.Parse(myString);
+Console.WriteLine("myString: " + myString + " and myInt4: " + myInt4);
+
+string myString2 = "false";
+bool myBoolean = Convert.ToBoolean(myString2);
+Console.WriteLine("myString2: "+myString2 + " and myBoolean:" + myBoolean);
+
+
 Console.ReadKey();
