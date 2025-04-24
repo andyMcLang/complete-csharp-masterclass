@@ -1,0 +1,15 @@
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\bin\Debug\net8.0\SpecialCharactersInString.exe
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\bin\Debug\net8.0\SpecialCharactersInString.deps.json
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\bin\Debug\net8.0\SpecialCharactersInString.runtimeconfig.json
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\bin\Debug\net8.0\SpecialCharactersInString.dll
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\bin\Debug\net8.0\SpecialCharactersInString.pdb
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\SpecialCharactersInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\SpecialCharactersInString.AssemblyInfoInputs.cache
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\SpecialCharactersInString.AssemblyInfo.cs
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\SpecialCharactersInString.csproj.CoreCompileInputs.cache
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\SpecialCharactersInString.sourcelink.json
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\SpecialCharactersInString.dll
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\refint\SpecialCharactersInString.dll
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\SpecialCharactersInString.pdb
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\SpecialCharactersInString.genruntimeconfig.cache
+C:\udemy_matskut\complete-csharp-masterclass\SpecialCharactersInString\SpecialCharactersInString\obj\Debug\net8.0\ref\SpecialCharactersInString.dll
