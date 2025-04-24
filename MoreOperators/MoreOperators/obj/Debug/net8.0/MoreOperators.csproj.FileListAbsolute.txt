@@ -1,0 +1,15 @@
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\bin\Debug\net8.0\MoreOperators.exe
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\bin\Debug\net8.0\MoreOperators.deps.json
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\bin\Debug\net8.0\MoreOperators.runtimeconfig.json
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\bin\Debug\net8.0\MoreOperators.dll
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\bin\Debug\net8.0\MoreOperators.pdb
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\MoreOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\MoreOperators.AssemblyInfoInputs.cache
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\MoreOperators.AssemblyInfo.cs
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\MoreOperators.csproj.CoreCompileInputs.cache
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\MoreOperators.sourcelink.json
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\MoreOperators.dll
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\refint\MoreOperators.dll
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\MoreOperators.pdb
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\MoreOperators.genruntimeconfig.cache
+C:\udemy_matskut\complete-csharp-masterclass\MoreOperators\MoreOperators\obj\Debug\net8.0\ref\MoreOperators.dll
