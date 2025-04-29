@@ -1,16 +1,10 @@
-﻿bool isSateista = true;
-bool hasSateenvarjo = false;
+﻿bool isKorkeampi = false;
 
-if (!isSateista)
-{
-    Console.WriteLine("Ei ole sateista!");
-} else if (isSateista && !hasSateenvarjo)
-{
-    Console.WriteLine("Sateista, joten otetaan sateenvarjo käyttöön!");
-    hasSateenvarjo = true;
-} else if (hasSateenvarjo)
-{
-    Console.WriteLine("Sataa ja nyt on sateenvarjo käytössä!");
-}
+int num1, num2;
+
+num1 = 0;
+num2 = 1;
+
+Console.WriteLine(isKorkeampi = num1 > num2);
 
 Console.ReadKey();
