@@ -1,12 +1,16 @@
-﻿bool isRainy = false;
-bool hasSateenvarjo = true;
+﻿bool isSateista = true;
+bool hasSateenvarjo = false;
 
-if (isRainy || hasSateenvarjo)
+if (!isSateista)
 {
-    Console.WriteLine("Sateista!");
-} else
+    Console.WriteLine("Ei ole sateista!");
+} else if (isSateista && !hasSateenvarjo)
 {
-    Console.WriteLine("Ei oo sateista!");
+    Console.WriteLine("Sateista, joten otetaan sateenvarjo käyttöön!");
+    hasSateenvarjo = true;
+} else if (hasSateenvarjo)
+{
+    Console.WriteLine("Sataa ja nyt on sateenvarjo käytössä!");
 }
 
 Console.ReadKey();
