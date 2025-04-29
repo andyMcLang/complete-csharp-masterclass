@@ -1,5 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-bool isRainy = false;
+﻿bool isRainy = false;
 bool hasSateenvarjo = true;
+
+if (isRainy)
+{
+    Console.WriteLine("Sateista!");
+} else
+{
+    Console.WriteLine("Ei oo sateista!");
+}
+
+Console.ReadKey();

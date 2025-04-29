@@ -1,0 +1,15 @@
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.exe
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.deps.json
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.runtimeconfig.json
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.dll
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.pdb
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.AssemblyInfoInputs.cache
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.AssemblyInfo.cs
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.csproj.CoreCompileInputs.cache
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.sourcelink.json
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.dll
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\refint\LogicApp.dll
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.pdb
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.genruntimeconfig.cache
+C:\udemy_matskut\complete-csharp-masterclass\LogicApp\LogicApp\obj\Debug\net8.0\ref\LogicApp.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogicApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bdd6d86a212cf76aff58211ad8272e775341af6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a671be6fc47c57b45414850f0889f610ea5a0f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogicApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogicApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
