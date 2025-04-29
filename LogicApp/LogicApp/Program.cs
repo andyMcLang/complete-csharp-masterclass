@@ -1,7 +1,7 @@
 ﻿bool isRainy = false;
 bool hasSateenvarjo = true;
 
-if (isRainy)
+if (isRainy || hasSateenvarjo)
 {
     Console.WriteLine("Sateista!");
 } else
