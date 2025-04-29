@@ -1,12 +1,16 @@
-﻿int ika = 44;
+﻿int ika = 18;
+bool isVanhempienKanssa = false;
 
-if (ika >= 18)
+if (ika >= 13 && isVanhempienKanssa)
 {
-    Console.WriteLine("Mee klubille bileettään!");
+    Console.WriteLine("Mee teiniklubille bileettään!");
 }
-else
+else if (ika > 6)
 {
-    Console.WriteLine("Mee koulun diskoon bilettää!");
+    Console.WriteLine("Mee diskoon bileettään!");
+} else
+{
+    Console.WriteLine("Mee päiväkotiin leikkimään!");
 }
 
-Console.ReadKey();
+    Console.ReadKey();
