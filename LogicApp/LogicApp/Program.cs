@@ -1,10 +1,12 @@
-﻿bool isKorkeampi = false;
+﻿int ika = 44;
 
-int num1, num2;
-
-num1 = 0;
-num2 = 1;
-
-Console.WriteLine(isKorkeampi = num1 > num2);
+if (ika >= 18)
+{
+    Console.WriteLine("Mee klubille bileettään!");
+}
+else
+{
+    Console.WriteLine("Mee koulun diskoon bilettää!");
+}
 
 Console.ReadKey();
